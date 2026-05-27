@@ -28,7 +28,13 @@ npm init -y
     Logger.js
 
 # 5.-Conexión de una ruta
+    Crearemos un usuario con datos parseados (Meterlos a la mala) en la ruta.
+    La ruta la usaremos para manejar las URL.
 
     users.js
 
-# 6.- 
+# 6.- Creacion del Main
+    Definimos el cerebro de la aplicacion
+    
+    app.js
+# 7.-
